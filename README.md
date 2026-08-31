@@ -1,55 +1,85 @@
-<h1 align="center">Hi 👋, I'm Devrup Roy 😁</h1>
-<h3 align="center">A passionate web developer with a knack for learning</h3>
+<h1 align="center">Hi, I'm Devrup Roy 👋</h1>
+<h3 align="center">Backend-focused Software Engineer building APIs, microservices & data pipelines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=droy249" alt="droy249" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/droy249" target="blank"><img src="https://img.shields.io/twitter/follow/droy249?logo=twitter&style=for-the-badge" alt="droy249" /></a> </p>
-
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
-
-- 💬 Ask me about **DSA, Leetcode, College Life**
-
-- 📫 How to reach me **roy.devrup@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x7IQme0kduM88TtCVvytUeOGPqS0MAwt/view?usp=sharing](https://drive.google.com/file/d/1x7IQme0kduM88TtCVvytUeOGPqS0MAwt/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/droy249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="droy249" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devrup-roy-46174a1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrup-roy-46174a1b3" height="30" width="40" /></a>
-<a href="https://fb.com/droy249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="droy249" height="30" width="40" /></a>
-<a href="https://instagram.com/daoist_insanity247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daoist_insanity247" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/droy_2409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="droy_2409" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/droy249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="droy249" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/roy_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roy_dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user7541ub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7541ub" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@roy.devrup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@roy.devrup" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/roydevrup/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roydevrup/profile" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/devrup-roy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:devrup.roy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=droy249&show_icons=true&locale=en&layout=compact" alt="droy249" /></p>
+### 👨‍💻 About Me
 
+- 🏦 Currently a **Software Engineer at Wells Fargo**, building real-time microservices and backend platforms for credit decisioning and KYC
+- 🎓 B.Tech in Computer Engineering, Delhi Technological University
+- 🌱 Backend-first, full-stack when it counts — Java & Spring Boot at work, Python/FastAPI and TypeScript/React in my own projects
+- 🌍 Based in Bengaluru, India — **open to relocation** and international opportunities
+- ⚡ Interested in platform engineering, distributed systems, and developer-facing APIs
 
-<!--
-### Hi there 👋 
-This is Devrup Roy 😄 (@droy249)
+---
 
-- I'm interested in Data Structures, Algorithms, Web Development
+### 🛠️ Tech Stack
 
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
-**droy249/droy249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data & Infra**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**[SyncBoard](https://github.com/droy249/syncboard)** — Real-time collaborative task board
+Bi-directional sync across all connected clients in under 50ms using Socket.IO and Express, with an in-memory presence-tracking layer and a persistent PostgreSQL backend.
+`TypeScript` `React` `Node.js` `Express` `Socket.IO` `PostgreSQL`
+
+**[AI-Powered SQL Assistant](https://github.com/droy249/sql-assistant)** — Natural language → SQL agent
+Framework-free, language-agnostic tool-calling agent on the Claude API that translates natural language into optimized SQL, with a defense-in-depth security layer blocking destructive queries before they reach the database.
+`Python` `FastAPI` `React` `PostgreSQL` `Docker`
+
+**[E-Commerce Platform](https://github.com/droy249/amazon-clone)** — Full-stack checkout & payments
+End-to-end shopping and checkout flow with Stripe Elements, Firebase Authentication, and a serverless payments backend on Firebase Cloud Functions.
+`React` `Firebase` `Stripe` `Express` `JavaScript`
+
+<!-- > 📌 *Repo links above use my GitHub username as a placeholder — swap in your actual repo URLs before publishing.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=droy249&show_icons=true&theme=default" alt="Devrup's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=droy249&layout=compact&theme=default" alt="Top languages" height="165"/>
+</p> -->
+
+---
+
+<p align="center"><i>Open to relocation and new opportunities — let's connect.</i></p>
